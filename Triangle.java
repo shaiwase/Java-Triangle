@@ -1,8 +1,7 @@
 ﻿/**
  * This program calculates the area and perimeter of a legal triangle using the Heron formula and return the triangle details
  * to the console.
- * Name : Karine Or
- * ID : 310261243
+ * Name : Karine   * 
  * Course : Intro to computer scienses and Java PL. 20114
  * MMN 11 Question 1
  */
